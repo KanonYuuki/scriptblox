@@ -2,7 +2,7 @@ function Chat(message)
     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message , "All")
 end
 
-Rizz_Lines = loadstring(game:HttpGet("X"))()
+Rizz_Lines = loadstring(game:HttpGet("https://raw.githubusercontent.com/KanonYuuki/scriptblox/rizz/rizzlines"))()
 
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KanonYuuki/scriptblox/rizz/rizzerui"))()
 
