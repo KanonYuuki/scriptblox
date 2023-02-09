@@ -1,0 +1,38 @@
+return {
+	"Roses are red. Violets are fine. You be the six. I’ll be the nine.", -- 1
+	"I was feeling very off today, but then you turned me on.", -- 2 
+	"I have 206 bones in my body. Want to give me another one?", -- 3
+	"I’m not a weatherman, but you can expect a few more inches tonight.", -- 4
+	"Are you an archaeologist? Because I’ve got a large bone for you to examine.", -- 5
+	"Did you make Santa’s naughty list this year? You want to?", -- 6
+	"If you look that good in clothes, you must look even better out of them.", -- 7
+	"I’m an adventurer and I want to explore you.", -- 8
+	"Does your name start with “C” because I can “C” us getting down.", -- 9
+	"Is your name winter? Because you’ll be coming soon.", -- 10
+	"If I was the judge, I’d sentence you to my bed", -- 11
+	"I’m not feeling myself today. Can I feel you instead?", -- 12
+	"Someone should call the police because you just stole my heart!", -- 13
+	"I’m not a dentist, but I bet I could give you a filling.", -- 14
+	"I wish you were here to play ‘Simon Says’ with me… in bed", -- 15
+	"I don’t like children until they are OUR children. What do you think about that?", -- 16
+	"If you’re feeling down, I can feel you up.", -- 17
+	"Are you Siri? Because you autocomplete me", -- 18
+	"Are you a volcano? Coz I lava you!", -- 19
+	"Are you a camera? Because every time I look at you, I smile.", -- 20 
+	"Thank god I have life insurance. Because you make my heart stop.", -- 21
+	"You’re so beautiful that you made me forget my pick-up line.", -- 22
+	"Your lips look lonely. Wanna introduce them to mine?", -- 23
+	"Life without you is like a broken pencil. Pointless.", -- 24
+	"I know we’re not socks, but we make a great pair.", -- 25
+	"If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together.", -- 26
+	"Are you from Tennessee? Because you’re the only 10 I see!", -- 27
+	"I’m no photographer, but I can picture us together.", -- 28
+	"Are you a magician? When I look at you everything disappears.", -- 29
+	"Hey, tie your shoes! I don’t want you falling for anyone else.", -- 30
+	"Roses are red. Violets are blue. I didn’t know what perfect was until I met you.", -- 31
+	"I’d rate you a nine because the only thing missing is me.", -- 32
+	"Do you have a name, or can I call you mine?", -- 33
+	"Do you have an inhaler? You took my breath away.", -- 34
+	"What has 36 teeth and holds back the Incredible Hulk? My zipper.", -- 35
+	"Are you a firework, cause i can light you up", -- 36
+}
