@@ -1,0 +1,5 @@
+local args = {
+    [1] = 100000000000000000
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Rebirth"):FireServer(unpack(args))
